@@ -7,7 +7,7 @@ steps:
   - '--image'
   - 'gcr.io/gcbdocs/hello'
   - '--region'
-  - 'us-central1'
+  - 'us-central2'
   - '--platform'
   - 'managed'
   - '--allow-unauthenticated'
